@@ -1,8 +1,7 @@
 # Hey, I'm Emanuel 👋
 
 Math-CS student at UC San Diego (Graduating 2028) I build full-stack systems, 
-ship production apps, and lead engineering teams. Currently incoming 
-Technical Project Manager intern @ Tesla.
+ship production apps, and lead engineering teams. Currently a Technical Program Manager intern @ Tesla.
 
 ## 🚀 Projects I'm Proud Of
 | Project | What it does |
