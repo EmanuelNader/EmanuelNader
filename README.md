@@ -1,6 +1,6 @@
 # HI I'm Emanuel Nader
 
-Math-CS @ UC San Diego, class of 2028. Currently a Technical Program Manager intern at Tesla on Chassis Controls.
+Math-CS @ UC San Diego, class of 2028. Previously Technical Program Manager intern at Tesla (Chassis Controls).
 
 I like problems where the software has to touch something real: a vehicle fleet, an IMU on someone's wrist, a room full of people trying to coordinate a night out.
 
