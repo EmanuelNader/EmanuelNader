@@ -1,0 +1,258 @@
+{
+  "user": "EmanuelNader",
+  "name": "Emanuel Nader",
+  "since": "2022-11-09",
+  "headline": "Math-CS @ UC San Diego, class of 2028. Previously TPM intern at Tesla (Chassis Controls).",
+  "tagline": "I build software that touches the real world, and tools for the agents that write it.",
+  "stack": "C++ · C · Python · TypeScript · React Native · ESP32 · nRF52840 · Zephyr · MQTT · Postgres",
+  "status": "open to winter, summer and fall 2027 internships",
+  "stackGroups": [
+    {
+      "label": "languages",
+      "items": [
+        [
+          "Python",
+          "python"
+        ],
+        [
+          "C++",
+          "cplusplus"
+        ],
+        [
+          "C",
+          "c"
+        ],
+        [
+          "TypeScript",
+          "typescript"
+        ],
+        [
+          "JavaScript",
+          "javascript"
+        ],
+        [
+          "Java",
+          "openjdk"
+        ],
+        [
+          "SQL",
+          "postgresql"
+        ]
+      ]
+    },
+    {
+      "label": "frontend",
+      "items": [
+        [
+          "React",
+          "react"
+        ],
+        [
+          "React Native",
+          "react"
+        ],
+        [
+          "Next.js",
+          "nextdotjs"
+        ],
+        [
+          "Expo",
+          "expo"
+        ],
+        [
+          "Vite",
+          "vite"
+        ],
+        [
+          "Tailwind",
+          "tailwindcss"
+        ]
+      ]
+    },
+    {
+      "label": "backend",
+      "items": [
+        [
+          "Flask",
+          "flask"
+        ],
+        [
+          "FastAPI",
+          "fastapi"
+        ],
+        [
+          "Node.js",
+          "nodedotjs"
+        ],
+        [
+          "Express",
+          "express"
+        ]
+      ]
+    },
+    {
+      "label": "data",
+      "items": [
+        [
+          "PostgreSQL",
+          "postgresql"
+        ],
+        [
+          "SQLite",
+          "sqlite"
+        ],
+        [
+          "MongoDB",
+          "mongodb"
+        ],
+        [
+          "Redis",
+          "redis"
+        ],
+        [
+          "Supabase",
+          "supabase"
+        ],
+        [
+          "Firebase",
+          "firebase"
+        ],
+        [
+          "pgvector",
+          "postgresql"
+        ]
+      ]
+    },
+    {
+      "label": "infra",
+      "items": [
+        [
+          "Docker",
+          "docker"
+        ],
+        [
+          "Nginx",
+          "nginx"
+        ],
+        [
+          "GitHub Actions",
+          "githubactions"
+        ],
+        [
+          "AWS",
+          "amazonwebservices"
+        ],
+        [
+          "Vercel",
+          "vercel"
+        ],
+        [
+          "Prometheus",
+          "prometheus"
+        ],
+        [
+          "Grafana",
+          "grafana"
+        ]
+      ]
+    },
+    {
+      "label": "embedded",
+      "items": [
+        [
+          "ESP32",
+          "espressif"
+        ],
+        [
+          "nRF52840",
+          "nordicsemiconductor"
+        ],
+        [
+          "Zephyr RTOS",
+          ""
+        ],
+        [
+          "Bluetooth LE",
+          "bluetooth"
+        ],
+        [
+          "MQTT",
+          "mqtt"
+        ]
+      ]
+    },
+    {
+      "label": "testing",
+      "items": [
+        [
+          "GoogleTest",
+          ""
+        ],
+        [
+          "pytest",
+          "pytest"
+        ],
+        [
+          "Locust",
+          "locust"
+        ]
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "repo": "EmanuelNader/trackbench",
+      "description": "C++ multi-object tracker (EKF + Hungarian association) benchmarked on nuScenes. Cut identity switches 53% against the baseline.",
+      "language": "C++ · Python"
+    },
+    {
+      "repo": "EmanuelNader/Engineering-Internship-Job-Board-Bot",
+      "title": "internship-job-board-bot",
+      "description": "Discord bot that polls Greenhouse, Ashby, Lever, Workday, iCIMS and more, then posts US intern, co-op and fellowship roles.",
+      "language": "TypeScript"
+    },
+    {
+      "repo": "EmanuelNader/agent-router",
+      "description": "Runs Claude Code, Codex and OpenCode on cheap cloud servers, blocks surprise bills, and moves work between laptop and server.",
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TTALPHAIOTA/Nutribase",
+      "title": "nutribase",
+      "description": "Smart fridge tracker: ESP32 load cells stream 10+ payloads/sec over MQTT into a MERN backend. Ran in a dorm for 10 weeks.",
+      "language": "C++ · JavaScript"
+    }
+  ],
+  "more": [
+    {
+      "name": "shotclock",
+      "description": "Shared night-out timelines with live group sync and a custom design system.",
+      "language": "React Native",
+      "meta": "private"
+    },
+    {
+      "name": "steady",
+      "description": "Wrist-worn BAC estimator: nRF52840 firmware streams IMU data over BLE.",
+      "language": "C · Zephyr",
+      "meta": "private"
+    }
+  ],
+  "links": [
+    {
+      "label": "portfolio",
+      "url": "https://emanuelnader.dev"
+    },
+    {
+      "label": "resume",
+      "url": "https://drive.google.com/file/d/1xdWKlj2ZyDn0J53Vr1Lbhn-yRucdsR70/view?usp=sharing"
+    },
+    {
+      "label": "linkedin",
+      "url": "https://linkedin.com/in/emanuelnader"
+    },
+    {
+      "label": "email",
+      "url": "mailto:emanuelsnader@gmail.com"
+    }
+  ]
+}
